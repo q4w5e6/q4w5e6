@@ -1,5 +1,7 @@
 ### Hi there 👋
+<p align="center">
 <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/Pikachu.gif" width="240px" align="center">
+</p>
 <!--
 **q4w5e6/q4w5e6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
