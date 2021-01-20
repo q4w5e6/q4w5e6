@@ -1,7 +1,8 @@
 ### Hi! 👋
 <p align="center">
 <img src="https://raw.githubusercontent.com/Semporia/Semporia/master/Happy.gif" width="27px">
-<img src="https://raw.githubusercontent.com/Semporia/Semporia/master/Pikachu.gif" width="240px" align="center">
+<br>
+<img src="https://raw.githubusercontent.com/Semporia/Semporia/master/Pikachu.gif" width="240px" a>
 </p>
 <!--
 **q4w5e6/q4w5e6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
